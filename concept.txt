@@ -1,0 +1,21 @@
+Positioning
+
+1.Position:static;
+Ans:- By default the position is static.so no changes seen by normal eyes.
+
+2.Position:relative;
+top,bottom,left,right.
+Ans:- you can simply move the image(box) relative to its Original position.
+
+
+3.Position:Absolute;
+top,bottom,left,right.
+Ans:-you can simply move the image(box) relative to the nearest parent element.
+
+4.Position:fixed;
+bottom:0px;  ,top:0px;
+Ans:-Img(box) getting fixed in particular position.If you scroll still it is not moving.
+
+5.Position:Sticky;
+Ans:- inside scrolling website there will be scrolling content. See example online.
+

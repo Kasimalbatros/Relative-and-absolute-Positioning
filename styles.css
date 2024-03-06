@@ -1,0 +1,21 @@
+.av{
+    border:10px solid ;
+      background-color:blue;
+      margin-bottom:10px;
+      width:500px;
+      height:300px;
+      Position:relative;
+      top:200px;
+      left:200px;
+    }
+    .ax{
+      border:10px solid yellow;
+      width:3%;
+      height:20px;
+      padding:80px;
+      background-color:red;
+      border-radius:50%;
+      position:absolute;
+      left:450px;
+      top:350px;
+    }
